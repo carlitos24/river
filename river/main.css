@@ -1,0 +1,29 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 18pt; 
+	color: #fff;
+	text-align: center;
+	padding: 18px 0 17px 0;
+	margin: 0 0 10px 0;
+	background-color: black;
+}
+nav {
+	font-style: all;
+	font-size: 5pt;
+	color: grey;
+	text-align: left;
+
+} 
+
+ul{
+	text-align: left;
+	text-decoration-style: solid;
+	
+
+
+
+}
